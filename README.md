@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavkumarj-code/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/keshavkumarj-code/Leetcode/tree/master/0912-sort-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshavkumarj-code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavkumarj-code/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/keshavkumarj-code/Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/keshavkumarj-code/Leetcode/tree/master/0912-sort-an-array) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0179-largest-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
