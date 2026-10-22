@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keshavkumarj-code/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshavkumarj-code/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/keshavkumarj-code/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/keshavkumarj-code/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Enumeration
 |  |
 | ------- |
