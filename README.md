@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavkumarj-code/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavkumarj-code/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0598-range-addition-ii](https://github.com/keshavkumarj-code/Leetcode/tree/master/0598-range-addition-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavkumarj-code/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavkumarj-code/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/keshavkumarj-code/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
