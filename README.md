@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/keshavkumarj-code/Leetcode/tree/master/0011-container-with-most-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavkumarj-code/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavkumarj-code/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/keshavkumarj-code/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/keshavkumarj-code/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Pigeonhole Principle
